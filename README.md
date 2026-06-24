@@ -1,4 +1,4 @@
-<img width="469" height="685" alt="image" src="https://github.com/user-attachments/assets/dfa28f15-b446-454d-8c61-dbc37a9ad687" /><img width="469" height="685" alt="{AAE8315E-730C-435E-A2E0-A715E408C8DF}" src="https://github.com/user-attachments/assets/a425208d-cc53-4125-9f16-b26c603e0e47" /># แนะนำตัวนักศึกษา
+# แนะนำตัวนักศึกษา
 
 <img width="5712" height="3808" alt="IMG_0924 (1)" src="[https://github.com/user-attachments/assets/e4711ee6-1d30-415b-a7e5-bd9cc630e55a]" />
 
