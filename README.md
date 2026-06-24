@@ -2,30 +2,22 @@
 
 <img width="5712" height="3808" alt="IMG_0924 (1)" src="https://scontent.fcnx3-1.fna.fbcdn.net/v/t1.15752-9/730775706_1024389976738778_5121351787283045930_n.png?_nc_cat=108&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=KKuGFYfIZzYQ7kNvwE0ALo1&_nc_oc=Adq2JeIlUf6jjwGGD44NdQDHkGRyjh8LYE-k4veZ0QK3rNi3ie1NnhTGJyYWs5WncPk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fcnx3-1.fna&_nc_ss=7a22e&oh=03_Q7cD5gHOIFETXZkM2ak5xWjRsz1vLDOLYet8pGBMB0TQ5TTugg&oe=6A62EDD1" />
 
-## 👤 ข้อมูลนักฤศึกษา
+## 👤 ประวัติส่วนตัว
 * 🏷️ **ชื่อ-นามสกุล :** นาย ชวนากร ใจเร็ว (เก้า)
 * 🏫 **ระดับชั้น :** ปวช.3
 * 🏢 **แผนกวิชา :** เทคโนโลยีสารสนเทศ (Information Technology) 🌐
 * 📅 **คติประจำใจ :** ผู้ร้ายจำเป็น
 
-## 📚 รายวิชาที่รับผิดชอบการสอน (Teaching Schedule) 📝
-*(🔥 รับผิดชอบการจัดการเรียนรู้ทั้งหมด 4 รายวิชาสุดเข้มข้น!)*
+## 📚 ส่วนทักษะและความสามารถ
+* 🎨 **รายชื่อโปรแกรมที่ใช้งานเป็น : VS Code, Photoshop, Figma, Word, Excel**
+* ⚙️ **ความสามารถพิเศษ : สามารถทำลิ้น3แฉกได้,มีความรู้ช่างไฟฟ้ากำลัง**
 
-* 🎨 **รหัส 31901-2001 : การออกแบบส่วนติดต่อผู้ใช้ขั้นสูง (UI/UX Design)**
-  * 🚪 ห้องเรียน : `IT.4103` 🏛️ | `IT.4101` 🏛️ | `IT.4102` 🏛️ | `IT.4501` 🏛️
-* 💾 **รหัส 21903-2004 : การเขียนโปรแกรมเอสคิวแอลและโนเอสคิวแอล (SQL & NoSQL)**
-  * 🚪 ห้องเรียน : `CT.2103` 🏛️
-* 🌐 **รหัส 31900-0001 : การสร้างเว็บไซต์ (Web Development)**
-  * 🚪 ห้องเรียน : `IT.4501` 🏛️
-* ⚙️ **รหัส 21901-2012 : การพัฒนาระบบร่วมกันด้วยแพลตฟอร์ม (Collaboration Platform)**
-  * 🚪 ห้องเรียน : `IT.3102` 🏛️
+## 🛠️  ส่วนข้อมูลโปรเจกต์จบ ปวช.3 (Final Project)
+* 🤝 **โปรเจ็คจบปวช.3 :** เว็ปไซต์จองคิวร้านตัดผม 👥
+* ⚙️ **เหตุผลที่เลือกทำโปรเจกต์นี้ :** แก้ปัญหารอคิวร้านตัดผมนาน,ทันสมัย
+* 💻 **หน้าที่หลักในกลุ่มโปรเจกต์นี้คืออะไร :** เขียนโค้ดออกแบบเว็ปไซต์
+* <img width="5712" height="3808" alt="IMG_0924 (1)" src="[https://scontent.fcnx3-1.fna.fbcdn.net/v/t1.15752-9/730775706_1024389976738778_5121351787283045930_n.png?_nc_cat=108&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=KKuGFYfIZzYQ7kNvwE0ALo1&_nc_oc=Adq2JeIlUf6jjwGGD44NdQDHkGRyjh8LYE-k4veZ0QK3rNi3ie1NnhTGJyYWs5WncPk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fcnx3-1.fna&_nc_ss=7a22e&oh=03_Q7cD5gHOIFETXZkM2ak5xWjRsz1vLDOLYet8pGBMB0TQ5TTugg&oe=6A62EDD1](https://canva.link/m3lc9v8zxr7pog8)" />
 
-## 🛠️ รูปแบบและเครื่องมือในการสอน (Teaching Style & Tools) 🚀
-* 🤝 **สไตล์การสอน :** เน้นปฏิบัติจริง ลุยเต็มระบบ (Active Learning) ทำงานร่วมกันแบบเป็นทีม 👥
-* ⚙️ **เครื่องมือหลัก :** GitHub 🐱, GitHub Codespaces ☁️, ระบบฐานข้อมูล 🗄️ และเครื่องมือพัฒนาเว็บไซต์สุดทันสมัย 💻
-* 💻 **เทคโนโลยีที่เกี่ยวข้อง :** `SQL` 📊 | `NoSQL` 💎 | `HTML5` 🌐 | `CSS3` 🎨 | `Git Version Control` 🌿
-
-## 📬 ช่องทางการติดต่อสำหรับนักศึกษา (Contact Me) ⚡
-* 🏢 **สถานที่ทำงาน :** ห้องพักครูแผนกวิชาเทคโนโลยีสารสนเทศ 🚪
-* 📞 **เบอร์โทรศัพท์ :** 080-030-5264 📱 (ติดต่องาน/ปรึกษาเรียน)
-* 📧 **Email :** [tea10492@lannapoly.ac.th] ✉️
+## 📬 ช่องทางการติดต่อ (Contact Me) ⚡
+* 📞 **instragram :** (https://www.instagram.com/9dontwantbitch_/#)
+* 📧 **Email :** [nonninnne1za9@gmail.com] ✉️
